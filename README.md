@@ -32,11 +32,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydava1233-ops&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ###
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rizkydava1233-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ###
-🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rizkydava1233-ops&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
 ---
