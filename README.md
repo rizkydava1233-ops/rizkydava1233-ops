@@ -47,4 +47,6 @@
 <img src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/snake.svg" alt="Animated snake slithers across a grid representing GitHub contributions, highlighting recent activity in a playful and engaging manner. The grid is a digital contribution graph with a cheerful and lighthearted atmosphere. No text appears in the image." />
 
 ###
+<div align="center">
 ![](img/one.gif)
+</div>
