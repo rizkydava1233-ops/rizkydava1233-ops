@@ -29,9 +29,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rizkydava1233-ops&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydava1233-ops&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkydava1233-ops&radius=16&theme=redical&area=true&order=5&hide_border=false" height="290" alt="activity-graph graph"  />
-
-
 ###
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rizkydava1233-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -43,6 +40,7 @@
 [![](https://visitcount.itsvg.in/api?id=rizkydava1233-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkydava1233-ops&radius=16&theme=redical&area=true&order=5&hide_border=false" height="290" alt="activity-graph graph"  />
 
 ###
 
