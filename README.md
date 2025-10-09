@@ -4,7 +4,7 @@
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dava_rzy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dava_rizky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizkydava1233@gmail.com) 
 
-# Skils:
+![](img/interest.gif)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
