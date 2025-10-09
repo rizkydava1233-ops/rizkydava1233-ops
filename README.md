@@ -24,9 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 
 
-###
-
-###
+##
 ![](img/stas.gif)
 
 ![](https://github-readme-stats.vercel.app/api?username=rizkydava1233-ops&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
