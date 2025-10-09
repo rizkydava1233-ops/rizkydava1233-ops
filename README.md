@@ -21,3 +21,14 @@
 [![](https://visitcount.itsvg.in/api?id=rizkydava1233-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/snake.svg" alt="Snake animation" />
+
+###
