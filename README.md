@@ -1,5 +1,5 @@
 <div align="center">
-![](img/github-header-banner.png)
+<img src="img/github-header-banner.png" alt="GitHub Header Banner" width="100%"/>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dava_rzy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dava_rizky) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rizkydava1233@gmail.com) 
