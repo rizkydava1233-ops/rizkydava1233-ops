@@ -47,7 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/pacman-contribution-graph.svg" alt="pacman animation" />
-<img src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/snake.svg" alt="Animated snake moves across a grid of GitHub contribution squares, visually representing recent activity in a playful and engaging style. The environment is a digital contribution graph with a lighthearted and fun tone. No text is present in the image." />
 
 ###
