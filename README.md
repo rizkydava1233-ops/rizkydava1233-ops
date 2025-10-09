@@ -47,8 +47,6 @@
 
 ###
 
-Snake animation showing a pixelated snake moving across a grid background, visually representing GitHub contribution activity in a playful and dynamic way. The animation conveys a sense of fun and engagement with the coding community.
+<img src="https://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/snake.svg" alt="Snake animation" />
 
 ###
-
-[def]: ttps://raw.githubusercontent.com/rizkydava1233-ops/rizkydava1233-ops/output/snake.sv
